@@ -1,0 +1,1 @@
+components.nav-link<?php /**PATH C:\xampp\htdocs\FinalProject\storage\framework\views/f0d1da31f2c06c6ab14aa1640bb87779ca3b3004.blade.php ENDPATH**/ ?>
